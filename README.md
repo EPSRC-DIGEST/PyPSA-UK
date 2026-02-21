@@ -1,2 +1,2 @@
 # UK-PyPSA
-Optimal allocation of energy storage in the GB grid
+A PyPSA-based framework for modelling energy storage integration, renewable energy resources and power system optimisation.
