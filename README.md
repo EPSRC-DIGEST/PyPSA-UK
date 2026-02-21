@@ -1,7 +1,7 @@
 # PyPSA-UK
 A PyPSA-based framework for modelling energy storage integration, renewable energy resources and power system optimisation.
 
-📖 ## Overview
+ ## 📖Overview
 
 This repository contains Python code for power system modelling and optimisation using PyPSA (Python for Power System Analysis). The project focuses on:
 
