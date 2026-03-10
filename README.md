@@ -13,21 +13,21 @@ The project focuses on:
 - Scenario-based optimal power flow analysis
 
 ## Installation
-To use this code you need to install [PyPSA] and following requirments:
-CPLEX - Adcademic version
-numpy – numerical computing and array operations
-scipy – scientific computing and sparse matrix calculations
-pandas – data structures for time series and component data
-xarray – labeled multidimensional data handling
-linopy – optimization modeling interface used by PyPSA
-networkx – network graph calculations
-matplotlib – plotting and visualization
-seaborn – statistical plotting utilities
-plotly – interactive plotting
-netcdf4 – reading and writing NetCDF data files
-validators – validation utilities
-deprecation – API deprecation warnings
-highspy – HiGHS optimization solver interface
+To use this code you need to install [PyPSA] and the following requirments:
+- CPLEX - Adcademic version a high-performance, commercial software package for mathematical optimization
+- numpy – numerical computing and array operations
+- scipy – scientific computing and sparse matrix calculations
+- pandas – data structures for time series and component data
+- xarray – labeled multidimensional data handling
+- linopy – optimization modeling interface used by PyPSA
+- networkx – network graph calculations
+- matplotlib – plotting and visualization
+- seaborn – statistical plotting utilities
+- plotly – interactive plotting
+- netcdf4 – reading and writing NetCDF data files
+- validators – validation utilities
+- deprecation – API deprecation warnings
+- highspy – HiGHS optimization solver interface
 
 
 
