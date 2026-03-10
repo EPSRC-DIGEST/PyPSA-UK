@@ -51,7 +51,7 @@ PyPSA-UK is released under the MIT License.
 
 ## Cite Us
 If you use PyPSA for your research, we would appreciate it if you would cite the following paper:
--Sobhan Naderian, Marko Aunedi, “Optimal Energy Storage Deployment in GB Transmission Grid Using Open-Source Software” MDPI Energies, 2026, under review
+- Sobhan Naderian, Marko Aunedi, “Optimal Energy Storage Deployment in GB Transmission Grid Using Open-Source Software” MDPI Energies, 2026, under review
 
 [PyPSA]: <https://docs.pypsa.org/latest/>
 
