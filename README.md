@@ -14,6 +14,10 @@ The project focuses on:
 
 ## Installation
 To use this code you need to install [PyPSA] as follows: 
+```sh
+pip install pypsa
+```
+
 
 and then the following requirments:
 - CPLEX - Adcademic version a high-performance, commercial software package for mathematical optimization
@@ -40,7 +44,8 @@ then run Investment_GB29Ed_2040_Whole_Year_All_Storage.py
 PyPSA-UK is released under the MIT License.
 
 ## Cite Us
-Please cite our work
+If you use PyPSA for your research, we would appreciate it if you would cite the following paper:
+-Sobhan Naderian, Marko Aunedi, “Optimal Energy Storage Deployment in GB Transmission Grid Using Open-Source Software” MDPI Energies, 2026, under review
 
 [PyPSA]: <https://docs.pypsa.org/latest/>
 
