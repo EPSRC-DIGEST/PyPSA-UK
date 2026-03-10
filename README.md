@@ -13,7 +13,9 @@ The project focuses on:
 - Scenario-based optimal power flow analysis
 
 ## Installation
-To use this code you need to install [PyPSA] and the following requirments:
+To use this code you need to install [PyPSA] as follows: 
+
+and then the following requirments:
 - CPLEX - Adcademic version a high-performance, commercial software package for mathematical optimization
 - numpy – numerical computing and array operations
 - scipy – scientific computing and sparse matrix calculations
@@ -29,10 +31,16 @@ To use this code you need to install [PyPSA] and the following requirments:
 - deprecation – API deprecation warnings
 - highspy – HiGHS optimization solver interface
 
+Create a virtual environment and activate it (optional but recommended)
+```sh
+python -m venv pypsa-env
+```
+then run Investment_GB29Ed_2040_Whole_Year_All_Storage.py
+## Licence
+PyPSA-UK is released under the MIT License.
 
-
-
-
+## Cite Us
+Please cite our work
 
 [PyPSA]: <https://docs.pypsa.org/latest/>
 
