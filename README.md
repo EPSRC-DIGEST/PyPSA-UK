@@ -3,7 +3,7 @@ A PyPSA-based framework for modelling energy storage integration, renewable ener
 
  ## 📖Overview
 
-This repository contains Python code for power system modelling and optimisation using #PyPSA (Python for Power System Analysis). The project focuses on:
+This repository contains Python code for power system modelling and optimisation using [PyPSA] (Python for Power System Analysis). The project focuses on:
 
 - GB grid simulation and optimisation
 - Optimal energy storage allocation
@@ -12,3 +12,6 @@ This repository contains Python code for power system modelling and optimisation
 - Scenario-based optimal power flow analysis
 
 ## Installation
+
+[PyPSA]: <https://docs.pypsa.org/latest/>
+
