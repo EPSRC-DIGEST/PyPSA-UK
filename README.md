@@ -36,10 +36,16 @@ and then the following requirments:
 - highspy – HiGHS optimization solver interface
 
 Create a virtual environment and activate it (optional but recommended)
+
 ```sh
 python -m venv pypsa-env
 ```
-then run Investment_GB29Ed_2040_Whole_Year_All_Storage.py
+then run following code: 
+
+```sh
+Investment_GB29Ed_2040_Whole_Year_All_Storage.py
+```
+
 ## Licence
 PyPSA-UK is released under the MIT License.
 
