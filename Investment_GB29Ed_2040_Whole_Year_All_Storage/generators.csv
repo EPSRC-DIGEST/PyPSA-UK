@@ -1,0 +1,109 @@
+name,carrier,type,p_nom,bus,Turbine Capacity (MW),marginal_cost,p_nom_min,p_nom_max,p_nom_extendable,ramp_limit_up,ramp_limit_down,p_max_pu,control,active
+Peterhead CCGT,Natural Gas,CCGT,1180,Peterhead,,43,,1180,TRUE,,,,PV,TRUE
+Errochty Large Hydro 1,Large Hydro,Large Hydro,13.54,Errochty,,9,,19,TRUE,,,,PV,TRUE
+Errochty Large Hydro 2,Large Hydro,Large Hydro,15.12,Errochty,,9,,15.12,TRUE,,,,PV,TRUE
+Hunterston B,Nuclear,AGR,985,Neilston,,5,,985,TRUE,,,,PV,TRUE
+Strathaven Large Hydro 1,Large Hydro,Large Hydro,33,Strathaven,,9,,33,TRUE,,,,PV,TRUE
+Strathaven Large Hydro 2,Large Hydro,Large Hydro,49.4,Strathaven,,9,,49.4,TRUE,,,,PV,TRUE
+Torness Nuclear,Nuclear,AGR,1200,Torness,,5,,1200,TRUE,,,,PV,TRUE
+Hartlepool,Nuclear,AGR,1185,Stella West,,5,,1185,TRUE,,,,PV,TRUE
+Fellside CHP,Natural Gas,CCGT,155,Penwortham,,43,,155,TRUE,,,,PV,TRUE
+Heysham 1,Nuclear,AGR,1060,Penwortham,,5,,1060,TRUE,,,,PV,TRUE
+Heysham 2,Nuclear,AGR,1240,Penwortham,,5,,1240,TRUE,,,,PV,TRUE
+Rocksavage,Natural Gas,CCGT,810,Deeside,,43,,810,TRUE,,,,PV,TRUE
+Connahs Quay,Natural Gas,CCGT,1380,Deeside,,43,,1380,TRUE,,,,PV,TRUE
+Drax - coal units,Coal,Conventional steam,1320,Thornton/Drax/Eggborough,,21,,1320,TRUE,,,,PV,FALSE
+West Burton,Coal,Conventional steam,2000,Keadby,,21,,2000,TRUE,,,,PV,FALSE
+Castleford,Natural Gas,CCGT,56,Keadby,,43,,56,TRUE,,,,PV,TRUE
+Ratcliffe Coal,Coal,Conventional steam,2021,Ratcliffe,,21,,2021,TRUE,,,,PV,FALSE
+Corby,Natural Gas,CCGT,407,Walpole,,43,,407,TRUE,,,,PV,TRUE
+Sizewell B,Nuclear,PWR,1198,Bramford,,5,,1198,TRUE,,,,PV,TRUE
+Great Yarmouth,Natural Gas,CCGT,420,Bramford,,43,,420,TRUE,,,,PV,TRUE
+Rye House,Natural Gas,CCGT,715,Pelham,,43,,715,TRUE,,,,PV,TRUE
+Baglan Bay,Natural Gas,CCGT,520,Melksham,,43,,520,TRUE,,,,PV,TRUE
+Severn Power,Natural Gas,CCGT,850,Melksham,,43,,850,TRUE,,,,PV,TRUE
+Uskmouth,Coal,Conventional steam,0,Melksham,,21,,100,TRUE,,,,PV,FALSE
+Enfield,Natural Gas,CCGT,408,London,,43,,408,TRUE,,,,PV,TRUE
+Damhead Creek,Natural Gas,CCGT,805,Kemsley,,43,,805,TRUE,,,,PV,TRUE
+Coryton,Natural Gas,CCGT,800,Kemsley,,43,,800,TRUE,,,,PV,TRUE
+Medway,Natural Gas,CCGT,755,Kemsley,,43,,755,TRUE,,,,PV,TRUE
+Grain CHP,Natural Gas,CCGT,1517,Kemsley,,43,,1517,TRUE,,,,PV,TRUE
+Dungeness B,Nuclear,AGR,1090,Sellindge,,5,,1090,TRUE,,,,Slack,FALSE
+Shoreham,Natural Gas,CCGT,420,Lovedean,,43,,420,TRUE,,,,PV,TRUE
+Hinkley Point B,Nuclear,AGR,965,S.W.Penisula,,5,,965,TRUE,,,,PV,TRUE
+Hinkley Point C,Nuclear,AGR,3200,S.W.Penisula,,5,,3200,TRUE,,,,PV,TRUE
+Langage,Natural Gas,CCGT,905,S.W.Penisula,,43,,905,TRUE,,,,PV,TRUE
+Sutton Bridge,Natural Gas,CCGT,819,Walpole,,43,,819,TRUE,,,,PV,TRUE
+Blackburn,Natural Gas,CCGT,60,Keadby,,43,,60,TRUE,,,,PV,TRUE
+Sandbach,Natural Gas,CCGT,56,Feckenham,,43,,56,TRUE,,,,PV,TRUE
+Thornhill,Natural Gas,CCGT,50,Thornton/Drax/Eggborough,,43,,50,TRUE,,,,PV,TRUE
+West Burton CCGT,Natural Gas,CCGT,1332,Thornton/Drax/Eggborough,,43,,1332,TRUE,,,,PV,TRUE
+South Humber Bank,Natural Gas,CCGT,1365,Thornton/Drax/Eggborough,,43,,1365,TRUE,,,,PV,TRUE
+Carrington,Natural Gas,CCGT,910,Thornton/Drax/Eggborough,,43,,910,TRUE,,,,PV,TRUE
+Spalding,Natural Gas,CCGT,950,Walpole,,43,,950,TRUE,,,,PV,TRUE
+Marchwood,Natural Gas,CCGT,898,Lovedean,,43,,898,TRUE,,,,PV,TRUE
+Didcot B,Natural Gas,CCGT,1450,Melksham,,43,,1450,TRUE,,,,PV,TRUE
+Little Barford,Natural Gas,CCGT,723,Pelham,,43,,723,TRUE,,,,PV,TRUE
+Pembroke,Natural Gas,CCGT,2199,Melksham,,43,,2199,TRUE,,,,PV,TRUE
+Staythorpe C,Natural Gas,CCGT,1722,Melksham,,43,,1722,TRUE,,,,PV,TRUE
+Seabank,Natural Gas,CCGT,1234,Melksham,,43,,1234,TRUE,,,,PV,TRUE
+Keadby CCGT,Natural Gas,CCGT,735,Keadby,,43,,735,TRUE,,,,PV,TRUE
+Saltend,Natural Gas,CCGT,1200,Keadby,,43,,1200,TRUE,,,,PV,TRUE
+Cottam Development Centre,Natural Gas,CCGT,445,Keadby,,43,,445,TRUE,,,,PV,TRUE
+VPI Immingham,Natural Gas,CCGT,1252,Keadby,,43,,1252,TRUE,,,,PV,TRUE
+Peterborough,Natural Gas,OCGT,245,Walpole,,43,,245,TRUE,,,,PV,TRUE
+Barkantine Heat & Power,Natural Gas,OCGT,9,London,,43,,9,TRUE,,,,PV,TRUE
+Glanford Brigg,Natural Gas,OCGT,99,Keadby,,43,,99,TRUE,,,,PV,TRUE
+Wilton GT,Natural Gas,OCGT,120,Stella West,,43,,120,TRUE,,,,PV,TRUE
+Burghfield,Natural Gas,OCGT,50,London,,43,,50,TRUE,,,,PV,TRUE
+Chickerell,Natural Gas,OCGT,50,S.W.Penisula,,43,,50,TRUE,,,,PV,TRUE
+Chippenham,Natural Gas,OCGT,10,Melksham,,43,,10,TRUE,,,,PV,TRUE
+Pilkington - Greengate ,Natural Gas,OCGT,10,Deeside,,43,,10,TRUE,,,,PV,TRUE
+Killingholme,Natural Gas,OCGT,600,Keadby,,43,,600,TRUE,,,,PV,TRUE
+Baglan Bay GT,Oil,Diesel/Gas oil,32.3,Melksham,,250,,32.3,TRUE,,,,PV,TRUE
+Drax GT,Oil,Diesel/Gas oil,75,Keadby,,250,,75,TRUE,,,,PV,TRUE
+West Burton GT,Oil,Diesel/Gas oil,40,Ratcliffe,,250,,40,TRUE,,,,PV,TRUE
+Keadby GT,Oil,Diesel/Gas oil,25,Keadby,,250,,25,TRUE,,,,PV,TRUE
+Grain GT,Oil,Diesel/Gas oil,106,Kemsley,,250,,56,TRUE,,,,PV,TRUE
+Cowes,Oil,Diesel/Gas oil,140,Lovedean,,250,,140,TRUE,,,,PV,TRUE
+Didcot GT,Oil,Diesel/Gas oil,100,Sundon/East Claydon,,250,,100,TRUE,,,,PV,TRUE
+Little Barford GT,Oil,Diesel/Gas oil,17,Pelham,,250,,17,TRUE,,,,PV,TRUE
+Lerwick,Oil,Diesel/Gas oil,67,Beauly,,250,,67,TRUE,,,,PV,TRUE
+Thatcham,Oil,Diesel/Gas oil,9,Bramley,,250,,9,TRUE,,,,PV,TRUE
+Arnish,Oil,Diesel/Gas oil,10,Beauly,,250,,10,TRUE,,,,PV,TRUE
+Barra,Oil,Diesel/Gas oil,2.5,Beauly,,250,,2.5,TRUE,,,,PV,TRUE
+Bowmore,Oil,Diesel/Gas oil,6,Beauly,,250,,6,TRUE,,,,PV,TRUE
+Kirkwall,Oil,Diesel/Gas oil,16,Beauly,,250,,16,TRUE,,,,PV,TRUE
+"Loch Carnan, South Uist",Oil,Diesel/Gas oil,11,Beauly,,250,,11,TRUE,,,,PV,TRUE
+Stornoway,Oil,Diesel/Gas oil,23,Beauly,,250,,23,TRUE,,,,PV,TRUE
+Tiree,Oil,Diesel/Gas oil,2.5,Beauly,,250,,2.5,TRUE,,,,PV,TRUE
+Indian Queens,Oil,Diesel/Gas oil,140,S.W.Penisula,,250,,140,TRUE,,,,PV,TRUE
+Ratcliffe GT,Oil,Diesel/Gas oil,34,Ratcliffe,,250,,34,TRUE,,,,PV,TRUE
+Taylor's Lane GT,Oil,Diesel/Gas oil,144,London,,250,,144,TRUE,,,,PV,TRUE
+East Midlands Solar,Solar Photovoltaics,Solar Photovoltaics,5428.57666,Walpole,,0.1,,5428.57666,TRUE,,,,PV,TRUE
+Eastern Solar,Solar Photovoltaics,Solar Photovoltaics,7715.368835,Bramford,,0.1,,7715.368835,TRUE,,,,PV,TRUE
+North East Solar,Solar Photovoltaics,Solar Photovoltaics,440.5538056,Stella West,,0.1,,440.5538056,TRUE,,,,PV,TRUE
+North West Solar,Solar Photovoltaics,Solar Photovoltaics,1052.560252,Penwortham,,0.1,,1052.560252,TRUE,,,,PV,TRUE
+Scotland Solar,Solar Photovoltaics,Solar Photovoltaics,485.9717237,Torness,,0.1,,485.9717237,TRUE,,,,PV,TRUE
+South East Solar,Solar Photovoltaics,Solar Photovoltaics,8421.617465,Sellindge,,0.1,,8421.617465,TRUE,,,,PV,TRUE
+Wales Solar,Solar Photovoltaics,Solar Photovoltaics,5048.201595,Deeside,,0.1,,5048.201595,TRUE,,,,PV,TRUE
+West Midlands Solar,Solar Photovoltaics,Solar Photovoltaics,2408.285108,Feckenham,,0.1,,2408.285108,TRUE,,,,PV,TRUE
+East Midlands Onshore,Wind Onshore,Wind Onshore,413.9273729,Walpole,,6,,413.9273729,TRUE,,,,PV,TRUE
+Eastern Onshore,Wind Onshore,Wind Onshore,601.7984685,Bramford,,6,,601.7984685,TRUE,,,,PV,TRUE
+North East Onshore,Wind Onshore,Wind Onshore,626.5764085,Stella West,,6,,626.5764085,TRUE,,,,PV,TRUE
+North West Onshore,Wind Onshore,Wind Onshore,460.428439,Penwortham,,6,,460.428439,TRUE,,,,PV,TRUE
+Scotland Onshore,Wind Onshore,Wind Onshore,11859.46897,Denny/Bonnybridge,,6,,11859.46897,TRUE,,,,PV,TRUE
+South East Onshore,Wind Onshore,Wind Onshore,126.6050923,Sellindge,,6,,126.6050923,TRUE,,,,PV,TRUE
+South West Onshore,Wind Onshore,Wind Onshore,233.35389,S.W.Penisula,,6,,233.35389,TRUE,,,,PV,TRUE
+Wales Onshore,Wind Onshore,Wind Onshore,1713.92068,Deeside,,6,,1713.92068,TRUE,,,,PV,TRUE
+Yorkshire and Humber Onshore,Wind Onshore,Wind Onshore,1713.92068,Thornton/Drax/Eggborough,,6,,1713.92068,TRUE,,,,PV,TRUE
+East Midlands Wind Offshore,Wind Offshore,Wind Offshore,2563.532862,Walpole,,1,,2563.532862,TRUE,,,,PV,TRUE
+Eastern Wind Offshore,Wind Offshore,Wind Offshore,13207.38313,Bramford,,1,,13207.38313,TRUE,,,,PV,TRUE
+North Eastern Wind Offshore,Wind Offshore,Wind Offshore,563.0498535,Stella West,,1,,563.0498535,TRUE,,,,PV,TRUE
+North West Wind Offshore,Wind Offshore,Wind Offshore,5547.697085,Penwortham,,1,,5547.697085,TRUE,,,,PV,TRUE
+Scotland Wind Offshore,Wind Offshore,Wind Offshore,4906.26186,Peterhead,,1,,4906.26186,TRUE,,,,PV,TRUE
+South East Wind Offshore,Wind Offshore,Wind Offshore,8112.885975,Sellindge,,1,,8112.885975,TRUE,,,,PV,TRUE
+Wales Wind Offshore,Wind Offshore,Wind Offshore,4007.590133,Sellindge,,1,,4007.590133,TRUE,,,,PV,TRUE
+Yorkshire and Humber Wind Offshore,Wind Offshore,Wind Offshore,9091.599105,Sellindge,,1,,9091.599105,TRUE,,,,PV,TRUE
+Scotland Hydro,Hydro,Hydro,1323.5,Peterhead,,0.1,,1323.5,TRUE,,,,PV,TRUE
+Wales Hydro,Hydro,Hydro,134.7,Deeside,,0.1,,134.7,TRUE,,,,PV,TRUE

@@ -1,0 +1,18 @@
+name,bus0,bus1,carrier,p_nom,marginal_cost,p_min_pu
+WL,Neilston,Deeside,DC,2200,0.1,-0.1
+EGL1,Torness,Stella West,DC,2000,0.1,-0.1
+EGL2,Peterhead,Thornton/Drax/Eggborough,DC,2000,0.1,-0.1
+BritNed,Kemsley,Netherlands,DC,1610,20,-0.1
+EastWest,Deeside,Ireland,DC,966,7,-0.1
+Moyle,Neilston,N. Ireland,DC,966,7,-0.1
+Nemo,Sellindge,Belgium,DC,1610,20,-0.1
+IFA,Sellindge,France1,DC,3220,15,-0.1
+IFA2,Lovedean,France2,DC,1610,15,-0.1
+NSL,Stella West,Norway,DC,2254,1,-0.1
+ElecLink,Sellindge,France1,DC,1610,15,-0.1
+Viking Link,Walpole,Denmark,DC,2254,7,-0.1
+Greenlink,Melksham,Ireland2,DC,805,7,-0.1
+GridLink,Kemsley,France1,DC,2254,15,-0.1
+NeuConnect,Kemsley,Germany,DC,2254,20,-0.1
+NorthConnect,Peterhead,Norway,DC,2254,1,-0.1
+FAB Link,S.W.Penisula,France2,DC,2254,15,-0.1
