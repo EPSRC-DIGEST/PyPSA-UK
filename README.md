@@ -8,6 +8,7 @@ The project focuses on:
 
 - GB grid simulation and optimisation
 - Optimal energy storage allocation
+- Battery degradation modelling economically and physically
 - Energy storage investment expansion planning
 - Renewable integration studies
 - Scenario-based optimal power flow analysis
