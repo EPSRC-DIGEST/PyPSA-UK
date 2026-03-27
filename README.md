@@ -13,6 +13,8 @@ The project focuses on:
 - Renewable integration studies
 - Scenario-based optimal power flow analysis
 
+![GB 29 Bus with Interconnectors 2040]([image-url](https://github.com/EPSRC-DIGEST/PyPSA-UK/blob/main/GB%2029%20Bus%20with%20Interconnectors%202040.png))
+
 ## Installation
 To use this code you need to install [PyPSA] as follows: 
 ```sh
