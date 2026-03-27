@@ -13,7 +13,14 @@ The project focuses on:
 - Renewable integration studies
 - Scenario-based optimal power flow analysis
 
-![GB 29 Bus with Interconnectors 2040](https://github.com/EPSRC-DIGEST/PyPSA-UK/blob/main/GB%2029%20Bus%20with%20Interconnectors%202040.png)
+
+## GB 29 Bus with Interconnectors 2040
+![GB 29 Bus with Interconnectors 2040](https://github.com/EPSRC-DIGEST/PyPSA-UK/blob/main/img/GB%2029%20Bus%20with%20Interconnectors%202040.png)
+
+
+## Renewable Generation for 2040 with Optimal Energy Storage Allocation
+![Renewable Generation for 2040 with Optimal Energy Storage Allocation](https://github.com/EPSRC-DIGEST/PyPSA-UK/blob/main/img/Renewable%20Generation%20for%202040%20with%20Optimal%20Energy%20Storage%20Allocation.png)
+
 
 ## Installation
 To use this code you need to install [PyPSA] as follows: 
